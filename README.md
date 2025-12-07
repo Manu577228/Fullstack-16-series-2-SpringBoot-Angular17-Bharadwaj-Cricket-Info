@@ -1,1 +1,1 @@
-Cricket Information using Angular 17, My-SQL & Java-Springboot.
+Cricket Information using Angular 17, My-SQL & Java-Springboot!
